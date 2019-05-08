@@ -1,0 +1,7 @@
+title: Jumanji : resolution: 1024 x 960 : duration: 90
+title: WestWorld : resolution: 720 x 480 : duration: 23.5 : num_episodes : 45
+title: Jumanji1884 : resolution: 1024 x 960 : duration: 90
+title: PacificRim : resolution: 1024 x 960 : duration: 90
+title: BlackPanther : resolution: 1024 x 960 : duration: 90
+title: Dracula : resolution: 1024 x 960 : duration: 90
+title: ParksAndRecreation : resolution: 1024 x 960 : duration: 90 : num_episodes : 23

@@ -1,0 +1,79 @@
+./shapes
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: a
+== You selected a triangle. ==
+Enter position: 0 0
+Enter width and height: 1 2
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: b
+== You selected a circle. ==
+Enter position: 10 2
+Enter radius: 1
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: a
+== You selected a triangle. ==
+Enter position: 3 4
+Enter width and height: 1 22
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: p
+[0] Triangle
+    location: (0, 0)
+    width and height: (1, 2)
+[1] Radius
+    location: (10, 2)
+    radius: (1)
+[2] Triangle
+    location: (3, 4)
+    width and height: (1, 22)
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: 1
+Enter position: 11 3
+Enter radius: 1000
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: p
+[0] Triangle
+    location: (0, 0)
+    width and height: (1, 2)
+[1] Radius
+    location: (11, 3)
+    radius: (1000)
+[2] Triangle
+    location: (3, 4)
+    width and height: (1, 22)
+Choose a shape to add
+    (a) for triangle
+    (b) for circle
+    (p) to print the shapes
+    (0-9) to modify a shape
+    (q) to exit
+: q
